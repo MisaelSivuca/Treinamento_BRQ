@@ -1,0 +1,75 @@
+
+
+.img{
+    right: 150px;
+    margin-top: 100px;
+}
+h1{
+margin-left: 45rem;
+color: blue;
+}
+.box{
+  font-family: "Poppins", sans-serif;
+}
+.box{
+  margin-left: 37rem;
+    background-color:  rgba(243, 247, 247, 0.733);;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 50%;
+    height: 50vh;
+    font-family:sans-serif ;
+}
+.box{
+    margin-top: -5rem;
+    border-style:groove;
+    border-radius: 4vh;
+    width: 25%;
+    height: 70vh;
+}
+form div + div{
+    margin-top: 1rem;
+}
+.enviar {
+  margin-top: 0.5rem;
+}
+.enviar {
+  width: 29%;
+  padding: 7px 1px;
+  background: #f54642;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius:30px;
+  font-weight: bolder;
+  text-align:center;
+}
+.redefinir{
+    margin-top: 0.2rem;
+}
+.redefinir {
+  width: 29%;
+  padding:7px 0px;
+  background: linear-gradient(to bottom, #86c6f8 5%, #46a7f5 100%);;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius:30px;
+  font-weight: bolder;
+  text-align:center;
+}
+.imagens{
+  width: 25%;
+  padding: 8px 10px;
+  background: linear-gradient(to bottom, #86c6f8 5%, #46a7f5 100%);;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius:30px;
+  font-weight: bolder;
+  text-align:center
+}
+.masterimg{
+  margin-left: 43rem;
+}

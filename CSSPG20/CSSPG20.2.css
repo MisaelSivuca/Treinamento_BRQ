@@ -1,0 +1,81 @@
+h1{
+margin-left: 45rem;
+color: blue;
+}
+#posiciona1, #posiciona2, #posiciona3{
+width: 400px;
+height: 400px;
+position: absolute;
+margin-top: 80px;
+}
+#posiciona1{
+left: 0;
+top: 0;
+}
+#posiciona2{
+left: 30px;
+top: 150px;
+}
+#posiciona3{
+left: 60px;
+top: 300px;
+}
+#posiciona4, #posiciona5, #posiciona6{
+width: 400px;
+height: 400px;
+position: absolute;
+margin-top: 700px;
+}
+#posiciona4{
+left: 0;
+top: 0;
+z-index: 2;
+}
+#posiciona5{
+left: 30px;
+top: 150px;
+z-index: 3;
+}
+#posiciona6{
+left: 60px;
+top: 300px;
+z-index: 1;
+}
+#posiciona7, #posiciona8, #posiciona9{
+width: 400px;
+height: 400px;
+position: absolute;
+margin-top: 1300px;
+}
+#posiciona7{
+left: 0;
+top: 0;
+z-index: 2;
+}
+#posiciona8{
+left: 30px;
+top: 150px;
+z-index: 1;
+}
+#posiciona9{
+left: 60px;
+top: 300px;
+z-index: 3;
+}
+.voltar{
+  margin-top: 110rem;
+}
+.voltar{
+  width: 10%;
+  padding: 5px 10px;
+  background: linear-gradient(to bottom, #86c6f8 20%, #46a7f5 100%);;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius:30px;
+  font-weight: bolder;
+  text-align:center;
+}
+.voltarmaster{
+  margin-left: 45rem;
+}

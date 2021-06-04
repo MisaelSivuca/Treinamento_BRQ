@@ -1,0 +1,19 @@
+.conteudo {
+    background-color: #809aeb;
+    padding: 25px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 100px;
+    margin-right: 350px;
+    border-radius: 15px;
+}
+
+a, a:hover{
+    color: crimson;
+}
+ 
+footer {
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: none;
+}
