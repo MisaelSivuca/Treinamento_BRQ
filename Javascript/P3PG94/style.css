@@ -1,0 +1,19 @@
+body {
+    background-image: url(natacao.png);
+}
+
+.conteudo {
+    background-color: #55c4f8;
+    padding: 25px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 100px;
+    margin-right: 350px;
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: none;
+}

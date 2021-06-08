@@ -1,0 +1,26 @@
+body {
+    background-image: url(download.jpg);
+}
+
+.conteudo {
+    background-color: rgb(248, 236, 183);
+    padding: 25px;
+    text-align: center;
+    opacity: 0.9;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-right: 250px;
+    border-radius: 15px;
+}
+
+.msg{
+   clear: both; 
+   border: 1px solid #000;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+    text-decoration: none;
+}
