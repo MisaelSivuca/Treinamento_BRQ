@@ -62,6 +62,6 @@ public class Funcionario {
         System.out.println("Nome: " + funcNome);
         System.out.println("Cargo: " + funcCargo);
         System.out.println("ID: " + funcId);
-        System.out.println("Salario: " + funcSalario + "\n");
+        System.out.println("Professor: " + funcSalario + "\n");
     }
 }
