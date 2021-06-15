@@ -5,3 +5,4 @@ Treinamento_BRQ - Entry Point
 - CSS
 - Javascript
 - Java SE 
+- SQL
